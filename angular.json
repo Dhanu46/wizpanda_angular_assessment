@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wizpanda-angular-assessment"
+    }
+  },
+  "defaultProject": "wizpanda-angular-assessment",
+  "cli": {
+    "analytics": false
+  }
 }
